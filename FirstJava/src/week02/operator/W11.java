@@ -1,4 +1,4 @@
-package week02;
+package week02.operator;
 
 public class W11 {
     //switch문은 피연산자 한개에 대해서의 조건만 지원

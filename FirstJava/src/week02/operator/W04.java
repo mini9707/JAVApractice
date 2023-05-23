@@ -1,4 +1,4 @@
-package week02;
+package week02.operator;
 
 public class W04 {
     //논리연산자
