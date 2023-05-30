@@ -1,8 +1,4 @@
 package kiosk;
 
-public class Product {
-
-
-
-
+public class Product extends Menu {
 }

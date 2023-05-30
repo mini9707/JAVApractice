@@ -9,6 +9,6 @@ public class Main {
         System.out.println("");
 
         Menu menu = new Menu();
-        menu.setMainMenu();
+        menu.showMainMenu();
     }
 }
