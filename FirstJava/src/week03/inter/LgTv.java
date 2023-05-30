@@ -1,6 +1,6 @@
 package week03.inter;
 
-public class LgTv extends Tv implements MultiRemoteController {
+public class LgTv extends Tv implements MultiRemoteController{
 
     public LgTv(String company) {
         super(company);

@@ -4,7 +4,8 @@ public class Main {
     public static void main(String[] args) {
 
         // LG TV 구현체를 조작
-        MultiRemoteController mrc = new LgTv("LG");
+        MultiRemoteController mrc
+                = new LgTv("LG");
         mrc.turnOnOff();
         mrc.volumeUp();
         mrc.channelDown();
