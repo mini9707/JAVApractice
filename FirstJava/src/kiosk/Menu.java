@@ -3,7 +3,7 @@ package kiosk;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class Menu extends Main{
+public class Menu{
     static ArrayList<String> menuList = new ArrayList<String>();
     static ArrayList<String> menuDesc = new ArrayList<String>();
 
